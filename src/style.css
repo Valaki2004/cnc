@@ -1,0 +1,13 @@
+body{
+    background-image: -webkit-linear-gradient(bottom,navy,yellow,blue,red);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+h1{
+    color: white;
+    
+}
+ a:visited {
+    color: green;
+  }
