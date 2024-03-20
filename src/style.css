@@ -1,13 +1,27 @@
 body{
     background-image: -webkit-linear-gradient(bottom,navy,yellow,blue,red);
-    background-repeat: no-repeat;
-    height: 1000px;
+    text-align: center;
 }
 
 h1{
     color: white;
     
 }
- a:visited {
+a:visited {
+    color: black;
+}
+a:link{
     color: green;
-  }
+}
+a:hover{
+    color: gold;
+}
+.content{
+    color: white;
+}
+.szoveg{
+    color: white;
+}
+.game{
+    color: white;
+}
